@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CredIn</string>
+
+    <string-array name="items">
+        <item>Item 1</item>
+        <item>Item 2</item>
+        <item>Item 3</item>
+        <item>Item 4</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="facebook_app_id">860663861061684</string>
+    <string name="fb_login_protocol_scheme">fb860663861061684</string>
+</resources>
